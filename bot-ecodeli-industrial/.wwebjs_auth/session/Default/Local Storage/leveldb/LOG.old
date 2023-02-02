@@ -1,0 +1,6 @@
+2023/01/30-04:55:37.659 1880 Reusing MANIFEST C:\Users\juan3\Desktop\BOT HEROKU\bot-ecodeli-industrial\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/01/30-04:55:37.660 1880 Recovering log #436
+2023/01/30-04:55:37.708 1880 Reusing old log C:\Users\juan3\Desktop\BOT HEROKU\bot-ecodeli-industrial\.wwebjs_auth\session\Default\Local Storage\leveldb/000436.log 
+2023/01/30-11:01:56.000 20b4 Level-0 table #440: started
+2023/01/30-11:01:56.041 20b4 Level-0 table #440: 9597 bytes OK
+2023/01/30-11:01:56.074 20b4 Delete type=0 #436

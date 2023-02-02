@@ -1,0 +1,36 @@
+2023/01/31-05:44:46.048 2e50 Reusing MANIFEST C:\Users\juan3\Desktop\BOT HEROKU\bot-ecodeli-industrial\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/01/31-05:44:46.049 2e50 Recovering log #439
+2023/01/31-05:44:46.216 2e50 Reusing old log C:\Users\juan3\Desktop\BOT HEROKU\bot-ecodeli-industrial\.wwebjs_auth\session\Default\Local Storage\leveldb/000439.log 
+2023/01/31-05:52:51.391 2660 Level-0 table #443: started
+2023/01/31-05:52:52.637 2660 Level-0 table #443: 9513 bytes OK
+2023/01/31-05:52:52.666 2660 Delete type=0 #439
+2023/01/31-05:52:52.667 5b8 Compacting 4@0 + 1@1 files
+2023/01/31-05:52:52.745 5b8 Generated table #444@0: 70 keys, 12275 bytes
+2023/01/31-05:52:52.745 5b8 Compacted 4@0 + 1@1 files => 12275 bytes
+2023/01/31-05:52:52.799 5b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/31-05:52:52.799 5b8 Delete type=2 #433
+2023/01/31-05:52:52.800 5b8 Delete type=2 #435
+2023/01/31-05:52:52.800 5b8 Delete type=2 #437
+2023/01/31-05:52:52.800 5b8 Delete type=2 #440
+2023/01/31-05:52:52.800 5b8 Delete type=2 #443
+2023/01/31-18:05:43.748 1248 Level-0 table #446: started
+2023/01/31-18:05:43.787 1248 Level-0 table #446: 8908 bytes OK
+2023/01/31-18:05:43.808 1248 Delete type=0 #442
+2023/02/01-08:53:19.535 2c0c Level-0 table #448: started
+2023/02/01-08:53:19.604 2c0c Level-0 table #448: 9156 bytes OK
+2023/02/01-08:53:19.636 2c0c Delete type=0 #445
+2023/02/01-20:17:05.228 a10 Level-0 table #450: started
+2023/02/01-20:17:05.301 a10 Level-0 table #450: 8918 bytes OK
+2023/02/01-20:17:05.322 a10 Delete type=0 #447
+2023/02/02-11:46:51.353 29f0 Level-0 table #452: started
+2023/02/02-11:46:51.417 29f0 Level-0 table #452: 9060 bytes OK
+2023/02/02-11:46:51.438 29f0 Delete type=0 #449
+2023/02/02-11:46:51.438 29f0 Compacting 4@0 + 1@1 files
+2023/02/02-11:46:51.476 29f0 Generated table #453@0: 70 keys, 11444 bytes
+2023/02/02-11:46:51.476 29f0 Compacted 4@0 + 1@1 files => 11444 bytes
+2023/02/02-11:46:51.493 29f0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/02-11:46:51.495 29f0 Delete type=2 #444
+2023/02/02-11:46:51.496 29f0 Delete type=2 #446
+2023/02/02-11:46:51.511 29f0 Delete type=2 #448
+2023/02/02-11:46:51.512 29f0 Delete type=2 #450
+2023/02/02-11:46:51.512 29f0 Delete type=2 #452
